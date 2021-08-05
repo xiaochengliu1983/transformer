@@ -1,10 +1,10 @@
 # unit test
 To build and run unit test: mvn test
 
-#run
+# run
 To run it: mvn clean install
 
-#api endpoint
+# api endpoint
 Post /transformers
 {"type":"D","name":"Predaking","strength":8,"endurance":6,"overallRating":31,"rank":7,"speed":2,"firepower":6,"courage":5,"intelligence":9,"skill":10}
 
