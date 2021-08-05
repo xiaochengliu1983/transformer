@@ -1,5 +1,7 @@
-# transformer
+# unit test
 To build and run unit test: mvn test
+
+#run
 To run it: mvn clean install
 
 #api endpoint
